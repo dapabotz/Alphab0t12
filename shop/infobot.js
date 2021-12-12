@@ -31,7 +31,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ♊ Instagram : instagram.com/crosslife89
 ♋ Snack Video : https://sck.io/u/qfjxwBok
 ♌ Facebook : fb.me/andriistreetmoon
-♏ WhatsApp : wa.me/6283822759168
+♏ WhatsApp : https://bit.ly/3lZ8AQj
 `}
 
 exports.infobot = infobot
