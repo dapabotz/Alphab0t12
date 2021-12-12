@@ -30,8 +30,8 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ♉ Github : http://github.com//Andriiwalker
 ♊ Instagram : instagram.com/crosslife89
 ♋ Snack Video : https://sck.io/u/qfjxwBok
-♌ Facebook : fb.me/andriistreetmoon
-♏ WhatsApp : https://bit.ly/3lZ8AQj
+♌ Facebook : bit.ly/3oMTpeT
+♏ WhatsApp : bit.ly/3lZ8AQj
 `}
 
 exports.infobot = infobot
