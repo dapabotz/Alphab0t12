@@ -1,6 +1,8 @@
 const donasibot = () => {
 return `DONASI BISA VIA BANK / E-MONEY
 
+PAYMENT BY -ANDRIIxBOTZ-
+
 *🏧 BANK*
 
 1. BRI 
@@ -15,14 +17,18 @@ return `DONASI BISA VIA BANK / E-MONEY
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0838 2275 9168
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0838 2275 9168
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0838 2275 9168
 	
-Semuanya atas nama RI****DI
-`
+Semuanya atas nama Andrii Street Moonshine
+
+*📲 PULSA*
+
+Tidak tersedia
+
 	}
 
 exports.donasibot = donasibot
